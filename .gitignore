@@ -1,0 +1,14 @@
+__pycache__
+*~
+.DS_Store
+.Python
+.vscode
+.cache*
+.envrc*
+bin
+include
+lib
+pip-selfcheck.json
+settings
+
+*.kbl
